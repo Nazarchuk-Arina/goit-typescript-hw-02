@@ -1,0 +1,22 @@
+.modal {
+  width: 700px;
+  height: 700px;
+}
+
+img {
+  max-height: 480px;
+}
+
+.wrapper {
+  z-index: 888;
+  position: relative;
+}
+
+.list {
+  font-size: 20px;
+  margin-top: 32px;
+}
+
+.modal img {
+  width: 100%;
+}
